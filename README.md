@@ -2,9 +2,13 @@
 
 <!--
 **Andy-Messer/Andy-Messer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+Andrey Krotov
+🎓 MIPT DIHT bachelor 2024
 
-Here are some ideas to get you started:
+[![Andy-Messer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy-Messer)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
