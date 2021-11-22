@@ -4,7 +4,7 @@
 Andrey Krotov
 🎓 MIPT DIHT bachelor 2024
 
-[![Andy-Messer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy-Messer&count_private=true&show_icons=true&theme=gotham)]
+![Andy-Messer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy-Messer&count_private=true&show_icons=true&theme=gotham)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
