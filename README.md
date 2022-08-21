@@ -4,6 +4,8 @@
 Andrey Krotov
 🎓 MIPT DIHT bachelor 2024
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Andy-Messer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy-Messer&count_private=true&show_icons=true&theme=gotham)
 <!--
 - 🔭 I’m currently working on ...
