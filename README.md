@@ -21,8 +21,8 @@
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Andy-Messer&count_private=true&show_icons=true&theme=gotham&row=2&column=4" />
 
   <td align="center" style="padding=0;width=70%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=adriengivry&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true&extra=Juegos-Serios/ProyectFinal;MoruyankiiFighter/FighterTraighter" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Andy-Messer&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true" />
     </td>
   </tr>
 </table>
-![Andy-Messer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy-Messer&count_private=true&show_icons=true&theme=gotham&row=2&column=4)
+
