@@ -26,3 +26,11 @@
   </tr>
 </table>
 
+</br>
+</br>
+
+<p align="center">
+<a href="https://t.me/Red_jacket" target="_blank"><img align="center" src=icons/telegram32.png alt="Telegram social link (Red_jacket)" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7511460/adrien-givry" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stackoverflow social link (adrien-givry)" height="30" width="40" /></a>
+<a href="https://www.youtube.com/user/omegarespvp" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube social link (omegarespvp)" height="30" width="40" /></a>
+</p>
