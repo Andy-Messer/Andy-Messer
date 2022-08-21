@@ -6,6 +6,8 @@ Andrey Krotov
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
 ![Andy-Messer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy-Messer&count_private=true&show_icons=true&theme=gotham&row=2&column=3)
 <!--
 - 🔭 I’m currently working on ...
