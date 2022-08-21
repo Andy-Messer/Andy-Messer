@@ -1,8 +1,6 @@
-<!--
-**Andy-Messer/Andy-Messer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Andrey Krotov
-🎓 MIPT DIHT bachelor 2024
+<h1 align="center">Hello there 👋, I'm Andy</h1>
+<h3 align="center">Product Analyst at Tinkoff | 🎓 MIPT DIHT ba  2024 chelor 2024</h3>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
