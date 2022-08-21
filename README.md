@@ -28,5 +28,5 @@
 <a href="https://t.me/Red_jacket" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram social link (Red_jacket)" height="30" width="40" /></a>
 <a href="https://stackexchange.com/users/26120518/andrey-krotov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stackoverflow social link (Andrey Krotov)" height="30" width="40" /></a>
 <a href="https://vk.com/andy_krotov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="VK social link (Andy_Krotov)" height="30" width="40" /></a>
- <a href="https://www.instagram.com/_po_zhizni_/" target="_blank"><img align="center" src="https://www.jsdelivr.com/package/npm/@mui/icons-material/instagram.svg" alt="Instagram social link (_po_zhizni_)" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/_po_zhizni_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram social link (_po_zhizni_)" height="30" width="40" /></a>
 </p>
