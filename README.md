@@ -13,10 +13,10 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Andy-Messer&count_private=true&show_icons=true&hide_border=true&theme=gotham&row=2&column=4" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Andy-Messer&count_private=true&show_icons=true&theme=gotham&row=2&column=4" />
 
   <td align="center" style="padding=0;width=70%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Andy-Messer&layout=compact&show_icons=true&hide_border=true&theme=gotham&icon_color=f0f0f000&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Andy-Messer&layout=compact&show_icons=true&theme=gotham&icon_color=f0f0f000&count_private=true" />
     </td>
   </tr>
 </table>
