@@ -9,9 +9,20 @@
 - 🌱 I’m currently learning mathematical statistics
 - 📫 How to reach me: krotov.ai@phystech.edu | qesdrytem@gmail.com
 - ⚡ Fun fact: I prefer carrot juice
+
+
+[![Foo](icons/telegram32.png)](https://t.me/Red_jacket) [![Foo](icons/vk32.png)](https://vk.com/andy_krotov) [![Foo](icons/instagram32.png)](https://www.instagram.com/_po_zhizni_/)
 ---
 
-[![Foo](icons/telegram32.png)](https://t.me/Red_jacket) [![Foo](icons/vk32.png)](https://vk.com/andy_krotov)[![Foo](icons/instagram32.png)](https://www.instagram.com/_po_zhizni_/)
----
 
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Andy-Messer&count_private=true&show_icons=true&theme=gotham&row=2&column=4" />
+
+  <td align="center" style="padding=0;width=70%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=adriengivry&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true&extra=Juegos-Serios/ProyectFinal;MoruyankiiFighter/FighterTraighter" />
+    </td>
+  </tr>
+</table>
 ![Andy-Messer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andy-Messer&count_private=true&show_icons=true&theme=gotham&row=2&column=4)
