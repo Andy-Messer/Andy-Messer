@@ -3,7 +3,8 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Andy-Messer&theme=flat&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 - 🌱 I’m currently learning mathematical statistics
