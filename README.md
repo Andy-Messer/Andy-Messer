@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Andy</h1>
-<h3 align="center">Product Analyst at Tinkoff 👨‍💻 | 🎓 MIPT DIHT bachelor 2024</h3>
+<h3 align="center">Product Analyst at Yandex 👨‍💻 | 🎓 MIPT DIHT bachelor 2024</h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Andy-Messer)](https://github.com/Andy-Messer/github-profile-trophy)
