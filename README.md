@@ -1,33 +1,24 @@
-<h1 align="center">Hello there 👋, I'm Andy</h1>
-<h3 align="center">Product Analyst at Yandex 👨‍💻 | 🎓 MIPT DIHT bachelor 2024</h3>
+# Andrey Krotov
 
+**Analytics Leader · Product Analytics · Data**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Andy-Messer)](https://github.com/Andy-Messer/github-profile-trophy)
+I build analytics teams and help product teams make better decisions with data. My work spans experimentation, event tracking, customer journeys and data infrastructure.
 
----
+Currently **Group Lead, Core Interface Analytics at T-Bank**. Previously, I built an analytics team and developed product analytics for international search and AI products at **Yandex AI**.
 
-- 🌱 I’m currently learning mathematical statistics
-- 📫 How to reach me: krotov.ai@phystech.edu | qesdrytem@gmail.com
-- ⚡ Fun fact: I prefer carrot juice
+## What I work on
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Andy-Messer&count_private=true&show_icons=true&theme=flat&row=2&column=4" />
+- Building and developing analytics teams
+- Product experimentation and retention analysis
+- Event logging and customer journey analytics
+- Data modeling and ETL pipelines
 
-  <td align="center" style="padding=0;width=70%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Andy-Messer&layout=compact&show_icons=true&theme=flat&icon_color=f0f0f000&count_private=true" />
-    </td>
-  </tr>
-</table>
+## Tools
 
-</br>
-</br>
+Python · SQL · ClickHouse · Greenplum · Pandas · NumPy · Tableau
 
-<p align="center">
-<a href="https://t.me/Red_jacket" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram social link (Red_jacket)" height="30" width="40" /></a>
-<a href="https://stackexchange.com/users/26120518/andrey-krotov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stackoverflow social link (Andrey Krotov)" height="30" width="40" /></a>
-<a href="https://vk.com/andy_krotov" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="VK social link (Andy_Krotov)" height="30" width="40" /></a>
- <a href="https://www.instagram.com/_po_zhizni_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram social link (_po_zhizni_)" height="30" width="40" /></a>
- <a href="https://docs.google.com/document/d/1ux5ZIwzkZprpTv4DyMPhpRV4pIqp0Ar2RjmaxZjef_Q/edit?usp=sharing" target="_blank"><img align="center" src=icons/cv.svg alt="CV link" height="30" width="40" /></a>
-</p>
+## Background
+
+MIPT — Mathematics and Computer Science. I also teach Python and review student code.
+
+[Email](mailto:krotov.ai@phystech.edu) · [Telegram](https://t.me/Red_jacket)
